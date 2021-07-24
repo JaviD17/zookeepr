@@ -155,6 +155,15 @@
         "loving"
       ],
       "id": "14"
+    },
+    {
+      "name": "Javi",
+      "species": "bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
     }
   ]
 }
